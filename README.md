@@ -1,11 +1,11 @@
-# 💫 About Me:
 🌱 I’m currently enlightening myself with Spring Security.
 💬 Ask me about Java & SpringBoot.
 👨‍💻 All my projects are available in the repository section.
 👨🏻‍🎓 Have a look at my Portfolio.
-🔭 Know more about me and my experiences My Resume.
-🤝 I’m also reachable at rameshy9891@gmail.com
+🔭 Know more about me and my experiences in My Resume.
+🤝 I’m also reachable at saelalok001@gmail.com
 ⚡ Fun fact, I'm also an avid photographer and quote writer.
+
 
 
 ## 🌐 Socials:
