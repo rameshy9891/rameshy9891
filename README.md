@@ -1,11 +1,31 @@
 
-* 🌱 I’m currently enlightening myself with Spring Security.
-* 💬 Ask me about Java & SpringBoot.
-* 👨‍💻 All my projects are available in the repository section.
-* 👨🏻‍🎓 Have a look at my Portfolio.
-* 🔭 Know more about me and my experiences in My Resume.
-* 🤝 I’m also reachable at rameshy9891@gmail.com.
-* ⚡ Fun fact, I'm also an avid photographer and quote writer.
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+ 👋 +I'm+Ramesh Yadav; +Java-Backend + Developer +From + (Etah-UP) India.&%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p> 
+
+<img align="right" alt="coding" width="375" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
+
+
+## 💫  About Me:
+🌱 I’m currently enlightening myself with Spring Security.
+<br>
+💬 Ask me about Java & SpringBoot.
+<br>
+👨‍💻 All my projects are available in the [repository section](https://github.com/rameshy9891?tab=repositorie.
+<br>
+👨🏻‍🎓 Have a look at my [Portfolio](https://rameshy9891.github.io/).
+<br>
+🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1K3rmEEUDQ6QGIhgAXF9BhO23BmIRd5MX/view?usp=sharing).
+<br>
+🤝 I’m also reachable at rameshy9891@gmail.com
+<br>
+⚡ Fun fact, I'm also an avid photographer and quote writer.
+
+<br>
 
 
 
